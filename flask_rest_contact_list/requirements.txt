@@ -1,0 +1,13 @@
+flask-pydantic-spec
+python-decouple
+flask-restful
+flask_cors
+Flask==2.0.1
+itsdangerous==2.0.1
+pytest
+pydantic~=1.8.2
+pymongo~=4.0.1
+orjson~=3.6.7
+redis~=3.5.3
+flask
+

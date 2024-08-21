@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "a0cdde81feb64790",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6da80d9e7574dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "258f48c6af73d1a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c51b6c766d4429e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "344cd6f6c113fc56",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca61aabe80504cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed6d914db9c70d4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c7195bb3e00fca1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#activ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3d6c80b4c12dfd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "right": {
+    "id": "4aa5815037864907",
+    "type": "split",
+    "children": [
+      {
+        "id": "303b8c764705eef8",
+        "type": "tabs",
+        "dimension": 52.60869565217391,
+        "children": [
+          {
+            "id": "a58bcab440767a1b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b16944891938084e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79d6d0b769e64060",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b380cc2e9bfbc7ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3628027e4320ec91",
+        "type": "tabs",
+        "dimension": 47.39130434782609,
+        "children": [
+          {
+            "id": "84d166436bb27d20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c51b6c766d4429e5",
+  "lastOpenFiles": [
+    "Year_0-Summer-Reading_and_Writing/activities/M4 Worksheet.pdf",
+    "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
+    "Year_0-Summer-Reading_and_Writing/activities/M4 Worksheet.docx",
+    "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
+    "Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf",
+    "Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf",
+    "Year_0-Summer-Reading_and_Writing/activities/M3.2 Vocabulary Template.pdf",
+    "Year_0-Summer-Reading_and_Writing/activities",
+    "Year_0-Summer-Reading_and_Writing/Module_3_worksheet.docx",
+    "Year_0-Summer-Reading_and_Writing/Module_3_worksheet.md",
+    "Year_0-Summer-Reading_and_Writing/Module 2 - Reading and Noting.md",
+    "M3 Worksheet.docx",
+    "Year_0-Summer-Reading_and_Writing/M3 Worksheet 1.docx",
+    "Year_0-Summer-Reading_and_Writing/M3 Worksheet.docx",
+    "Year_0-Summer-Reading_and_Writing/images/Pasted image 20230713105906.png",
+    "Year_0-Summer-Reading_and_Writing/images/Pasted image 20230713094442.jpg"
+  ]
+}
